@@ -1,5 +1,5 @@
 {
-   "token": "",
+   "token": "OTI2MzMxNTQ0MTkxMjQyMjcw.G-aySN.lCNW0e7m9E4zfNqDnq01DotnT_cPeM3albiHnA",
    "command_prefix": "P^",
    "priority": [
       "Groudon",
@@ -8,7 +8,7 @@
       "Staryu"
    ],
    "avoid": [],
-   "catch_rate": 90,
+   "catch_rate": 100,
    "delay": 3,
    "delay_on_priority": false,
    "restrict_duplicates": true,
